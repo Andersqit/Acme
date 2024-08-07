@@ -1,0 +1,16 @@
+
+node_modules/
+.idea
+.env
+
+# next.js
+/.next/
+/out/
+
+/build
+
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
